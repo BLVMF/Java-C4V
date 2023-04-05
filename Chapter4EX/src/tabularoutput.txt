@@ -1,0 +1,3 @@
+loop and out put n * 10, 100, 1000 
+n is as high as five 
+increments each time

@@ -1,0 +1,7 @@
+set up account numbers 
+assign credit limit to account numbers
+
+display opening balance 
+display and add credits to the account 
+display substract charges to the account
+display new balance and message Credit limit exceeded 

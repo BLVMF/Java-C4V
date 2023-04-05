@@ -1,0 +1,18 @@
+Generate a report for a specific Sales Associate 
+
+take in their name 
+
+take in the amount of item 1 sold 
+take in amount of item 2 sold
+take in amount of item 3 sold
+take in the amount of item 4 sold
+
+calculate gross sales / item 
+
+add gross sales together
+
+multiply gross sales by 9%
+
+add 200 to product from previous step 
+
+generate a report with all the values inputted to check for errors

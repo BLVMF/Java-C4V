@@ -1,0 +1,2 @@
+print alter * and ' ' starting with * on first line 
+start with ' ' on second and carry on throughout

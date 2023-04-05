@@ -1,0 +1,7 @@
+take in employee name
+take in hours up to 40 
+take in any hours past 40 
+take in hourly wage 
+multiply hours before 40 * hourly wage 
+after 40 hours multiply by hourly wage * 1.5 
+combime both values for gross pay 

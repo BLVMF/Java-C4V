@@ -1,0 +1,26 @@
+Gas Mileage 
+
+Set avg to 0 
+Set trip and gallons to 0 
+
+take in data for trip 1 
+   trip 1 mileage 
+   trip 1 gallons 
+   trip 1 mpg 
+
+take in data for trip 2 
+  trip 2 mileage
+  trip 2 gallons  
+  trip 2 mpg
+
+take in data for trip 3
+  trip 3 mileage
+  trip 3 gallons 
+  trip 3 mpg
+
+Diplay trip data summary 
+
+calculate avg of mpg for all trips 
+  combined mpg / 3 (float)
+
+display average mpg 
